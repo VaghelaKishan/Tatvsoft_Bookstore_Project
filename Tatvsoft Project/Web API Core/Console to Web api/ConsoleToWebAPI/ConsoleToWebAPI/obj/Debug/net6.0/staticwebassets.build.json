@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wuR60r9VUFtZAMZ4PieLLErBHbFVD5iOG0o7p55WWoE=",
+  "Source": "ConsoleToWebAPI",
+  "BasePath": "_content/ConsoleToWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

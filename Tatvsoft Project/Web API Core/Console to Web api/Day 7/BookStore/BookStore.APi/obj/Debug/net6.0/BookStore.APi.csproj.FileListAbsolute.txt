@@ -1,0 +1,6 @@
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.csproj.AssemblyReference.cache
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.AssemblyInfoInputs.cache
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.AssemblyInfo.cs
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.csproj.CoreCompileInputs.cache
+D:\Web API Core\Console to Web api\Day 7\BookStore\BookStore.APi\obj\Debug\net6.0\BookStore.APi.MvcApplicationPartsAssemblyInfo.cache
